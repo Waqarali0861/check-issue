@@ -7,35 +7,7 @@ font-optical-sizing: auto;
 font-weight: 500;
 font-style: normal;
 }
- .quotes-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .quotes-list li {
-    margin-bottom: 2rem;
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-  }
-  
-  .quote-image {
-    max-width: 13%;
-    height: auto;
-    border-radius: 4px;
-    object-fit: cover;
-  }
-  
-  blockquote {
-    margin: 0;
-    flex-grow: 1;
-  }
-  
-  blockquote footer {
-    margin-top: 0.5rem;
-    font-style: italic;
-  }
-
+ 
 .nav {
     background-color: white;
     display: grid;
